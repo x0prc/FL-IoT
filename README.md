@@ -33,19 +33,13 @@ FL framework. The results from the evaluation show that, in our scenario, FedAvg
 tend to perform better compared to the two adaptive algorithms, FedAdam and FedAdagrad. 
 </details>
 
-## ❓ Problem Statement
-<details>
-<summary></summary>
-</details>
+## ❓ Problem Statements
+![image](https://github.com/user-attachments/assets/103d88eb-fb79-42d0-8c07-f05d18024329)
+
 
 ## 💽 Dataset
 [ToN_IoT](https://research.unsw.edu.au/projects/toniot-datasets) <br>
 [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
 
-## 💡 Solution Statement
-<details>
-<summary></summary>
-</details>
-
-
-## 🎨 Project Design
+## 💡 Solution Topology From Paper
+![image](https://github.com/user-attachments/assets/cbe9be4c-eb38-40cb-b84c-ce0ebe92cc3e)
